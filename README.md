@@ -16,7 +16,7 @@
 
 <p><img src="./assets/about.svg" width="100%" alt="whoami — Kim Jihoon, Physical AI · Context Engineer. Researcher at Seoul Robot & AI Museum, Computer Engineering at Hongik University. Focus: Physical AI, Edge AI, TinyML, Reinforcement Learning, HRI."></p>
 
-<p><img src="./assets/highlights.svg" width="100%" alt="Highlights — James Dyson Award 2026 National Winner (Korea) · ACM DIS 2026 Companion, co-first author · 5+ awards and 1 patent application"></p>
+<p><img src="./assets/highlights.svg" width="100%" alt="Highlights — James Dyson Award 2026 National Winner (Korea) · ACM DIS 2026 Companion, co-first author · three 2nd-place finishes (2024–25)"></p>
 
 <p><img src="./assets/sec-stack.svg" width="100%" alt="01 / Tech Stack"></p>
 
@@ -47,4 +47,4 @@
 </picture>
 </p>
 
-<p><img src="./assets/footer.svg" width="100%" alt="Let's build machines that sense, decide & move."></p>
+<p><img src="./assets/footer.svg" width="100%" alt="Kim Jihoon · kimjihoon.me · Seoul"></p>
