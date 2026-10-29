@@ -26,11 +26,11 @@
 
 <p align="center">
   <a href="https://www.jamesdysonaward.org/2026/project/reboot-visualizing-parkinsons-gait-initiation"><img src="./assets/card-reboot.svg" width="49%" alt="REBOOT — AI smart cane for Parkinson's Freezing of Gait · James Dyson Award 2026 National Winner"></a>
-  <a href="https://kimjihoon.me/#projects"><img src="./assets/card-ugot.svg" width="49%" alt="UGOT Lane Detection — autonomous-driving education platform"></a>
+  <a href="https://kimjihoon.me/films/ugot/architecture/?theme=light-minimal&amp;lang=ko"><img src="./assets/card-ugot.svg" width="49%" alt="UGOT Lane Detection — autonomous-driving education platform"></a>
 </p>
 <p align="center">
-  <a href="https://doi.org/10.1145/3802974.3809461"><img src="./assets/card-duck.svg" width="49%" alt="BabyDuck & HongDuck — emotion-mirroring emotional-support robots · ACM DIS 2026"></a>
-  <a href="https://github.com/resourceful-hooni/Yonsei-HCI-LAB-Intern-rPPG-BP-Estimation"><img src="./assets/card-rppg.svg" width="49%" alt="rPPG BP Estimation — contactless blood-pressure estimation · Yonsei HCI Lab"></a>
+  <a href="https://kimjihoon.me/films/hongduck/architecture/?theme=light-minimal&amp;lang=ko"><img src="./assets/card-duck.svg" width="49%" alt="BabyDuck & HongDuck — emotion-mirroring emotional-support robots · ACM DIS 2026"></a>
+  <a href="https://kimjihoon.me/films/visivital/architecture/?theme=light-minimal&amp;lang=ko"><img src="./assets/card-rppg.svg" width="49%" alt="rPPG BP Estimation — contactless blood-pressure estimation · Yonsei HCI Lab"></a>
 </p>
 
 <p><a href="https://kimjihoon.me/#awards"><img src="./assets/sec-awards.svg" width="100%" alt="03 / Awards & Recognition"></a></p>
