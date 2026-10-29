@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="40" viewBox="0 0 148 40" fill="none" role="img" aria-label="LINKEDIN"><title>LINKEDIN</title><style>@font-face{font-family:'JBM';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAALcABAAAAAABYAAAAKEAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAXBEICoM4gksBNgIkAxQLFAAEIAV6ByAMBxvpA0AehXGbkxTVaUI6xTZpey8ePtZo7//dE5d0UR1pakm1EhkSFVIiUvIy/RqNdvL3dtX7rZptLBWaimREgEIpvkuCQf57w5rtOIPh3AMOu0CybpZqGs1fJArCaUCBJhiAZjtT9IyjypWxfWdAoBmQQqgVAo2GjYr9Q78w4CnhXAQINJo1Lxlt4i8flxWAIs/BZcbkCdSQ37Eo4HKG4gGTcAJJA8AC4wxc2gXwB8YnRnC+8JXiBOkhIGfzG+NqhFAv0S0xLb88ySpDwNeXTZAEhFK/hKjFTkDeAvkPhZAhCQIkCnQrBLqVLgCt6qVa4w548xMwMSISYdw+b76dE+fHTh05dHAxIJgf4lykDaEBdKIJH4EfgBIUUthgosRxlmZZjpLuY0iOSGkh016wDMl0vL1Bfn19pSOaOl4QXvdM04wEzVxtCganEQeNyQDfexXbFHWbjmnEykBwzSL+1/s7wiXSCT+XKTevZI5sKMgP7tCDGaNR3Ywu35SNqRa/4431bB1FujZ6cLn68smztE0/lHJfy3hp5XO3JM6Cby5lxreIE1Xt5dueKeb1v9vmi3k9IBx4vRj/An5VlWbkN43W+fj1io4ep3BnyKyqMizKeFVjT/6GVEQRMxnz/nvswV+VDC7Cp9O5Xd5KSv37bKZmt5WuA2Zmgu6VHFWTn13+AZzVCuRiWbEd+S9Rwu4/D8f/w9/n5XHAMW9ZHRrJlfxGrQTBk+rIW2hjaX1ZMqPE8KUX+MnkBTQKNOhTgABUYxcuSjFIrVQMgWatREG9QZKAZpPvKKnRgivSZSqXJ1mJSOmyZcpSxkWhPGm8lUmWJ1uqEIXyJSuAA+fpTM4mf4eoKaIL) format('woff2');}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.fade{animation:fade .7s ease both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.ping{animation:ping 2.2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes ping{0%{opacity:.85;transform:scale(1)}80%,100%{opacity:0;transform:scale(2.8)}}
+.flow{animation:flow 2.4s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-48}}
+.trace{animation:trace 2.4s linear infinite}
+@keyframes trace{from{stroke-dashoffset:60}to{stroke-dashoffset:-400}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs></defs><rect x=".75" y=".75" width="146.5" height="38.5" rx="19.25" fill="#FFFFFF" stroke="#D5DDE8" stroke-width="1.5"/><circle cx="24" cy="20.0" r="3.5" fill="#0891B2"/><text x="36.0" y="24.4" font-family="'JBM','SF Mono',Menlo,Consolas,monospace" font-weight="700" font-size="12.5" fill="#0B1220" letter-spacing="1.8">LINKEDIN</text><text x="130.0" y="24.4" font-family="'JBM','SF Mono',Menlo,Consolas,monospace" font-weight="700" font-size="12.5" fill="#0891B2" text-anchor="end">↗</text></svg>

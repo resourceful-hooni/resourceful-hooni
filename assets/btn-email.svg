@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" fill="none" role="img" aria-label="EMAIL"><title>EMAIL</title><style>@font-face{font-family:'JBM';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAMYABAAAAAABWQAAAK+AAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAXBEICoMcgjsBNgIkAxILEgAEIAV6ByAMBxvXAwiuB2xjvEZ/CaVMVDqYPbZHZ02c1qfBMlm8fML/GA/Q3KPvLvmU/AIRqta2EtECkLDtxnpTcwQ88Fzu35g8VpO0l41FCUUBJ5odSAYLbHHbJdmTJMoJ1sA5FwU6HFdQAw00CmjDiTS2zYcTiEfRxE+Qu/snCyVOJfDEahFG3PZv3LLYRA+L7vMbny96bROe/96w+V9Y9n839e7IdwUAWT/AXkIxpm2bz9cGOrE0wgA0qG0O4qgdlOC3uUQaCKgCoiAoCAIyzbUUxk+cPl9ZCv8DEJDpqLOohau5fc3+nRrLWHsal8bXEuKJcGDa3hZW6hs2kQpgCWjtlqkbvAdW7Vzy7yT5x0GA2DG+0XqyjmUR9UW0Fw9t2rw/YMtjzfZQS5BqLEIoxtfExcRfkAhiqA0CiEhQXwG2LjUZNZVFRa2NMcEUM9bt/wU1mf7ErzWu824gwP1B+B9BUAa1kWEHTgKkIBEF342QJkm5Uq0WWzTK0Rrp2hqF9duq+ap8RbYwm78sX3jz3rQ+N+/4qiI3D3mShRqymEsvT2tEyYIrQ33u1nJRnmbh+AfC0rKlV26FLLpuOre0DU8/Lq8hSvA6drhdLf1u/m6FyAwb9T/N3bXb3954/jvW6f5HOiN7Y7t96mv1NlRN5x1w+687ZGu8vfFdC0vvp/5l9voP2PTPk4Gpwa+a+OO3zenbYtxX3x24JMxKB7Itg/zFe9cvnlDZWN5fODTwAra7O57/+HwW17v/5HTd+UhtvmbLhx/4l4gDU3XC0T/dDP+1K/kZvt+ni/ATMS1kxAHxjaIIAp8UIS6WaZfqi2wBLXXZazYZjExAWQsJCNBWMFYipBVRTSpLoKomLSprSmupavsda8v0NNcGmxyw3Rp7LbLBFptstt9Yu2y33hT7rbHdFuvMtcsOa+yUAP+n78Dgc+viCQAA) format('woff2');}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.fade{animation:fade .7s ease both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.ping{animation:ping 2.2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes ping{0%{opacity:.85;transform:scale(1)}80%,100%{opacity:0;transform:scale(2.8)}}
+.flow{animation:flow 2.4s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-48}}
+.trace{animation:trace 2.4s linear infinite}
+@keyframes trace{from{stroke-dashoffset:60}to{stroke-dashoffset:-400}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs></defs><rect x=".75" y=".75" width="118.5" height="38.5" rx="19.25" fill="#FFFFFF" stroke="#D5DDE8" stroke-width="1.5"/><circle cx="24" cy="20.0" r="3.5" fill="#7C3AED"/><text x="36.0" y="24.4" font-family="'JBM','SF Mono',Menlo,Consolas,monospace" font-weight="700" font-size="12.5" fill="#0B1220" letter-spacing="1.8">EMAIL</text><text x="102.0" y="24.4" font-family="'JBM','SF Mono',Menlo,Consolas,monospace" font-weight="700" font-size="12.5" fill="#7C3AED" text-anchor="end">↗</text></svg>

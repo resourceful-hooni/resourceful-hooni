@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="40" viewBox="0 0 157 40" fill="none" role="img" aria-label="PORTFOLIO"><title>PORTFOLIO</title><style>@font-face{font-family:'JBM';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAMUABAAAAAABfgAAAK8AAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAbBEICoQYgxMBNgIkAxYLFgAEIAV6ByAMBxtDBEAeg+Nus9BisUSRu/b8mikevva+O/fu/rbvJZRSFRKFKr1IBoslNhZlWzX6M54oHC7l5/Xy5VIe2k1coSSl+HtbuwmcJGzwpOmQ/96wf39T/1iJbfzujfP4XxQ+a6EEGmb5Bg6o++cJBBhgAJp5S3bSI260rknUNwsEekAKYSQEmu12ipO2zt4gosIKHxBoDjosM4aJvYpAqSCVh83XvE/7DgNynuYP4EI0F49BJ8wBkglcC+xmwfnjAH7D7j0NOId3QVnE1BCQB/MOuw2EMJZYL7FfvomLRxi+vtwAWyVUmyXEML+DvAuQ/1CEjNUgQKJgvSKwXnUXWGu1Iu12mgNn7jx572ng81GF2xNWFsybNW3ShPEzAeNXDbHCtwqhgfWYxTu8B1RQhBBSSoGopbR+uHaWNVk1GW/qBGfqc9bgZRIzNnqsZhddaVFQc3WDrh57Nn91heFz19eMkstLyLcXF74l51J5Ri8+qcUpQ3ApAdDpWTomyOl63z6Aft+y/afqHc+4hpFNErUTTYFsMdfRThhdH3jXexeirWZkxlc1VIOr0y3ktK6NNDXh/usaXk1q77gD4qY5sboIVCe2saRuuKWpJWIaW7sYcyzMUMyfphC6hClJEQRFmhK24DL9cUjWM4q2tjKOSdJzYEsVsckvgvwk2eA8fXVIpIzCLe3tU64qidJc5QCVykRqliDnqET4jl1GHLQcC9YXxsKjHm/yhTrHt6y7dnRc3ZY2k4tIWH0EWDGHIY/W/VsHY2Hix/6P8bIAf876m+GvSL8CtJX/1MknDCUInurovAt0B1Pn4l8j8i4Echcojj0XzjTQBJrdCggOA8fhvTuRZplpQW82GhrbGq3S2/sdV2uOuC5GnGzJImTyEyNBnHiIpTTJojlAIiRLEMVTmhQRUuHASgydszU/Bz+vWgY=) format('woff2');}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.fade{animation:fade .7s ease both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.ping{animation:ping 2.2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes ping{0%{opacity:.85;transform:scale(1)}80%,100%{opacity:0;transform:scale(2.8)}}
+.flow{animation:flow 2.4s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-48}}
+.trace{animation:trace 2.4s linear infinite}
+@keyframes trace{from{stroke-dashoffset:60}to{stroke-dashoffset:-400}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs></defs><rect x=".75" y=".75" width="155.5" height="38.5" rx="19.25" fill="#FFFFFF" stroke="#D5DDE8" stroke-width="1.5"/><circle cx="24" cy="20.0" r="3.5" fill="#3B82F6"/><text x="36.0" y="24.4" font-family="'JBM','SF Mono',Menlo,Consolas,monospace" font-weight="700" font-size="12.5" fill="#0B1220" letter-spacing="1.8">PORTFOLIO</text><text x="139.0" y="24.4" font-family="'JBM','SF Mono',Menlo,Consolas,monospace" font-weight="700" font-size="12.5" fill="#3B82F6" text-anchor="end">↗</text></svg>
